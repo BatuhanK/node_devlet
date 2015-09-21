@@ -1,0 +1,20 @@
+{
+  "name": "node_devlet",
+  "version": "1.0.0",
+  "description": "nodejs ile e-devlet erisim araci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-devlet",
+    "edevlet"
+  ],
+  "author": "Batuhan KATIRCI <katircib@gmail.com> (http://batuhan.org)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "q": "^1.4.1",
+    "request": "^2.62.0"
+  }
+}
